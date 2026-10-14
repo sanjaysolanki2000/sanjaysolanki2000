@@ -20,7 +20,7 @@ Mobile Application Developer with **3+ years** of experience building and shippi
 - 💳 Payment integrations: Razorpay, Stripe, CCAvenue, Cashfree
 - ⚡ Real-time features: Socket.IO live tracking, chat, order auto-assignment
 - 🔔 Firebase (Auth, FCM, Firestore), Google Maps, In-App Purchases
-- 🌍 ~1 year of collaboration with a distributed team
+- 🌍 collaboration with a distributed team
 - 🤖 Using AI tools (Claude Code, Google Antigravity) to speed up development and debugging
 
 ---
